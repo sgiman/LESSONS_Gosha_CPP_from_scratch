@@ -2,7 +2,7 @@
 
 **Lesoons  C++ from scratch (very simple)**
 
-**Gosha Dudar**
+**Gosha Dudar (2020)**
 
 Learning the C++ programming language. 
 In this course we will learn C++ from scratch. 
